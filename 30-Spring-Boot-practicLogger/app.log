@@ -1,0 +1,18 @@
+2024-11-29T11:47:01.731+05:30  INFO 17580 --- [30-Spring-Boot-practicLogger] [main] in.sameer.Application                    : Starting Application using Java 17.0.12 with PID 17580 (D:\Spring-Boot-Program\30-Spring-Boot-practicLogger\target\classes started by myfat in D:\Spring-Boot-Program\30-Spring-Boot-practicLogger)
+2024-11-29T11:47:01.732+05:30  INFO 17580 --- [30-Spring-Boot-practicLogger] [main] in.sameer.Application                    : No active profile set, falling back to 1 default profile: "default"
+2024-11-29T11:47:02.050+05:30  INFO 17580 --- [30-Spring-Boot-practicLogger] [main] in.sameer.Application                    : Started Application in 0.591 seconds (process running for 0.927)
+2024-11-29T11:47:02.053+05:30 ERROR 17580 --- [30-Spring-Boot-practicLogger] [main] in.sameer.service.LoggerService          : this is error
+2024-11-29T11:47:02.053+05:30  INFO 17580 --- [30-Spring-Boot-practicLogger] [main] in.sameer.service.LoggerService          : this is info
+2024-11-29T11:47:02.053+05:30  WARN 17580 --- [30-Spring-Boot-practicLogger] [main] in.sameer.service.LoggerService          : this is warn
+2024-11-29T11:47:02.053+05:30  INFO 17580 --- [30-Spring-Boot-practicLogger] [main] in.sameer.service.ReportService          : Method started
+2024-11-29T11:47:02.054+05:30 ERROR 17580 --- [30-Spring-Boot-practicLogger] [main] in.sameer.service.ReportService          : some error occured
+2024-11-29T11:47:02.055+05:30  INFO 17580 --- [30-Spring-Boot-practicLogger] [main] in.sameer.service.ReportService          : Methods Ended
+2024-11-29 11:53:48,929 [main] INFO  in.sameer.Application                              - Starting Application using Java 17.0.12 with PID 14052 (D:\Spring-Boot-Program\30-Spring-Boot-practicLogger\target\classes started by myfat in D:\Spring-Boot-Program\30-Spring-Boot-practicLogger)
+2024-11-29 11:53:48,931 [main] INFO  in.sameer.Application                              - No active profile set, falling back to 1 default profile: "default"
+2024-11-29 11:53:49,241 [main] INFO  in.sameer.Application                              - Started Application in 0.538 seconds (process running for 1.021)
+2024-11-29 11:53:49,243 [main] ERROR in.sameer.service.LoggerService                    - this is error
+2024-11-29 11:53:49,243 [main] INFO  in.sameer.service.LoggerService                    - this is info
+2024-11-29 11:53:49,243 [main] WARN  in.sameer.service.LoggerService                    - this is warn
+2024-11-29 11:53:49,243 [main] INFO  in.sameer.service.ReportService                    - Method started
+2024-11-29 11:53:49,243 [main] ERROR in.sameer.service.ReportService                    - some error occured
+2024-11-29 11:53:49,243 [main] INFO  in.sameer.service.ReportService                    - Methods Ended

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="07-Bean-Life-Cycle-App"/>
+<aop-project name="05-Spring-Annotation-App"/>
+<aop-project name="03-IOC-App"/>
+<aop-project name="09-SpringBoot-First-App"/>
+<aop-project name="04-Spring-CarEngine-Appl"/>
+</aop-reference-model>

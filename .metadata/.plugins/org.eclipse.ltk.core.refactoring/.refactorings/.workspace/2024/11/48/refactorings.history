@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;33-Spring-Boot-Web-MVC-First-App&apos; to &apos;34-Spring-Boot-Web-MVC-First-App&apos;&#x0D;&#x0A;- Original element: &apos;33-Spring-Boot-Web-MVC-First-App&apos;&#x0D;&#x0A;- Renamed element: &apos;33-Spring-Boot-Web-MVC-First-App&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;33-Spring-Boot-Web-MVC-First-App&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=33-Spring-Boot-Web-MVC-First-App" name="34-Spring-Boot-Web-MVC-First-App" references="true" stamp="1732961828272" version="1.0"/>
+</session>

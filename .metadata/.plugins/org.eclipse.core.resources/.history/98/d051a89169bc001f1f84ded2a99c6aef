@@ -1,0 +1,5 @@
+package in.sameer.controller;
+
+public class MsgRestController {
+
+}

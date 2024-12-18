@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: 32-Spring-Boot-Association-App
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: mantookhan@123
+    url: jdbc:mysql://localhost:3306/sbms2
+    username: root
+  jpa:
+    hibernate:
+      ddl-auto: create
+    show-sql: true

@@ -1,0 +1,11 @@
+{
+	"name": "Mantoo",
+	"from": "Uk",
+	"to": "USA",
+	"gender": "Male",
+	"addr": {
+		"city": "Dln",
+		"state": "UP",
+		"country": "INDIA"
+	}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;in.sameer.Json.JasonAndJack&apos; to &apos;JavaToJackson&apos;&#x0D;&#x0A;- Original project: &apos;44-Json-Jakson-app&apos;&#x0D;&#x0A;- Original element: &apos;in.sameer.Json.JasonAndJack&apos;&#x0D;&#x0A;- Renamed element: &apos;in.sameer.Json.JavaToJackson&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;JasonAndJack&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;in.sameer.Json{JasonAndJack.java[JasonAndJack" matchStrategy="1" name="JavaToJackson" qualified="false" references="true" similarDeclarations="false" stamp="1733918077047" textual="false" version="1.0"/>
+</session>

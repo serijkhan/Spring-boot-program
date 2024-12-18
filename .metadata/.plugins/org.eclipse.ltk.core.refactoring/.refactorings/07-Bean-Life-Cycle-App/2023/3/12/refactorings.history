@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;in.sameerit&apos; to &apos;07-part-2-Beans-Life-Cycle-App/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;07-Bean-Life-Cycle-App&apos;&#x0D;&#x0A;- Destination element: &apos;07-part-2-Beans-Life-Cycle-App/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;07-Bean-Life-Cycle-App/src/main/java/in.sameerit&apos;" description="Copy package" destination="=07-part-2-Beans-Life-Cycle-App/src\/main\/java" element1="/src\/main\/java&lt;in.sameerit" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1679392257463" version="1.0"/>
+</session>

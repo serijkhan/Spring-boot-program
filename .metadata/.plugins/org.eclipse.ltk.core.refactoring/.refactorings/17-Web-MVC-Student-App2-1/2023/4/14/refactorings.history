@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private void init(Model model)&apos; from &apos;in.sameerit.controller.StudentController.loadIndexPage(...)&apos; to &apos;in.sameerit.controller.StudentController&apos;&#x0D;&#x0A;- Original project: &apos;17-Web-MVC-Student-App2-1&apos;&#x0D;&#x0A;- Method name: &apos;init&apos;&#x0D;&#x0A;- Destination type: &apos;in.sameerit.controller.StudentController&apos;&#x0D;&#x0A;- Declared visibility: &apos;private&apos;&#x0D;&#x0A;- Replace occurrences of statements with method" comments="false" description="Extract method &apos;init&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;in.sameerit.controller{StudentController.java" name="init" replace="true" selection="590 163" stamp="1680804987337" version="1.0" visibility="2"/>
+</session>

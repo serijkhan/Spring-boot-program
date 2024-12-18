@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: 27-Spring-Boot-JPA-App
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: sameer321
+    url: jdbc:mysql://database-1.clgga8uuc55a.ap-south-1.rds.amazonaws.com:3306/courses
+    username: admin
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
